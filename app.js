@@ -7,7 +7,7 @@ var students =[
 ]
 
 // Sarah info
-let sarah = {id:4, name:'Sarah', major:'CS'}
+let sarah = {id:4, name:'Sarah', major:'Business'}
 
 addStudents = ((obj) => {
     students.push(obj);
